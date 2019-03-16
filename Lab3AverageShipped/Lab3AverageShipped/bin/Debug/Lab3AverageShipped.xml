@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab3AverageShipped
+</name>
+</assembly>
+<members>
+<member name="T:Lab3AverageShipped.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab3AverageShipped.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab3AverageShipped.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab3AverageShipped.frmAverageUnitsShipped.validation(System.String)">
+ <summary>
+ This function will check if a user's input if valid and return True or False
+ </summary>
+ <param name="input"></param>
+ <returns></returns>
+</member>
+<member name="M:Lab3AverageShipped.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will accept the current text in the input textbox as an input
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab3AverageShipped.frmAverageUnitsShipped.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will reset the entire form to its default state
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab3AverageShipped.frmAverageUnitsShipped.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will close the application
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

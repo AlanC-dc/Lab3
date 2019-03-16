@@ -1,0 +1,11 @@
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\bin\Debug\Lab3AverageShipped.exe.config
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.Resources.resources
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.vbproj.GenerateResource.Cache
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.xml
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\bin\Debug\Lab3AverageShipped.exe
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\bin\Debug\Lab3AverageShipped.pdb
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\bin\Debug\Lab3AverageShipped.xml
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.exe
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.pdb
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.vbprojResolveAssemblyReference.cache
+D:\Documents\School\NetDev\Lab3AverageShipped\Lab3AverageShipped\obj\Debug\Lab3AverageShipped.frmAverageUnitsShipped.resources
